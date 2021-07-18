@@ -17,13 +17,13 @@
  */
 definition(
     name: "Pushbullet Connect",
-    namespace: "baldeagle072",
+    namespace: "jchonig",
     author: "Eric Roberts",
     description: "Painless setup of a Pushbullet device",
     category: "My Apps",
-    iconUrl: "https://baldeagle072.github.io/pushbullet_notifier/images/PushbulletLogo@1x.png",
-    iconX2Url: "https://baldeagle072.github.io/pushbullet_notifier/images/PushbulletLogo@2x.png",
-    iconX3Url: "https://baldeagle072.github.io/pushbullet_notifier/images/PushbulletLogo@3x.png")
+    iconUrl: "https://jchonig.github.io/hubitat-pushbullet/icons/PushbulletLogo@1x.png",
+    iconX2Url: "https://jchonig.github.io/hubitat-pushbullet/icons/PushbulletLogo@2x.png",
+    iconX3Url: "https://jchonig.github.io/hubitat-pushbullet/icons/PushbulletLogo@3x.png")
 
 
 preferences {
